@@ -18,26 +18,18 @@ Gruzja jest moim ulubionym krajem. Ten mało znany kraj jest zaskakująco bogaty
 
 Gruzja jest świetnym miejscem dla miłośników zabytków. Możemy tam znaleźć mnóstwo pozostałości dawnego ZSRR, jak i prastare budowle z epoki bronzu. Miasta Gruzji mają swój własny, unikatowy styl, którego nie znajdziemy nigdzie indziej na świecie. Bardzo kolorowe ceglane budynki ze zdobionymi,  drewnianymi balkonami wyglądają jak połączenie architektury Kuby i Włoch. W całym kraju możemy też znaleźć bardzo charakerystyczne kamienne wieże, które były używane do obrony przed najeźdźcami.
 
-## Slajd nr 2 - listy
+Atrakcje Gruzji
 
-Lista numerowana:
-<!--- UWAGA WAŻNE pusta linia odstępu -->
+Oto lista najciekwszych atrakcji Gruzji:
 
-1. Pierwszy
-2. Drugi
-3. Trzeci
-
-Lista punktowana:
-
-* Pierwszy 
-* Drugi 
-* Trzeci
-
-Lista podrzędna:
-
-* Pierwszy
-    * Pierwszy wcięty
-        * Kolejne wcięcie 
+* Kanion Martvili - spływ kajakowy pośród skał 
+* Vardzia - miasto wykute w skalnym klifie
+* Klasztor Katskhi - świątynia na słupie skalnym
+* Tbilisi - kolorowa stolica Gruzji
+* Mestia - górska wioska pełna kamiennych wież
+* Uplistsikhe - rozległe ruiny skalnego miasta
+* Cminda Sameba - piękny kościół na szczycie góry
+* Zamek Chertwisi - ponure ruiny twierdzy na skale
 
 - ii
 - ii
