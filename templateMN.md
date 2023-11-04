@@ -12,21 +12,11 @@ header-includes:
 
 
 
-## Slajd nr 1 
+## Wstęp
 
-Przykładowy akapit tekstu - Pellentesque et sollicitudin velit. Proin eu euismod magna. Duis sapien nibh, posuere vel iaculis quis, laoreet in eros. Vestibulum sit amet aliquam turpis. Suspendisse at tincidunt est, eget placerat sem. 
+Gruzja jest moim ulubionym krajem. Ten mało znany kraj jest zaskakująco bogaty w piękne zabytki, widoki i inne atrakcje. **To czyni go jedną z najlepszych destynacji na wakacje w Europie.**
 
-Drugi Akapit - Aliquam nec turpis id arcu porttitor dapibus. Nam sagittis nunc magna, eget tristique leo luctus sed. Quisque a lacus vel est elementum accumsan ut in urna. Etiam congue mollis velit, in venenatis est imperdiet vitae.
-
-**Tekst pogrubiony**
-
-*Tekst pochylony*
-<!--- Kolorowanie tekstu wymaga użycia komend Latexa -->
-\textcolor{red}{Text Czerwony}, \textcolor{blue}{Tekst Niebieski}
-<!--- Centrowanie wymaga użycia komend Latexa -->
-
-\begin{center}Tekst wycentrowany \end{center}
-
+Gruzja jest świetnym miejscem dla miłośników zabytków. Możemy tam znaleźć mnóstwo pozostałości dawnego ZSRR, jak i prastare budowle z epoki bronzu. Miasta Gruzji mają swój własny, unikatowy styl, którego nie znajdziemy nigdzie indziej na świecie. Bardzo kolorowe ceglane budynki ze zdobionymi,  drewnianymi balkonami wyglądają jak połączenie architektury Kuby i Włoch. W całym kraju możemy też znaleźć bardzo charakerystyczne kamienne wieże, które były używane do obrony przed najeźdźcami.
 
 ## Slajd nr 2 - listy
 
