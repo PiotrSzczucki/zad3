@@ -1,8 +1,8 @@
 ---
-author: xxxxx XXXXXXX
-title: Przykładowy template do prezentacji
-subtitle: Beamer
-date: 
+author: Piotr Szczucki
+title: Gruzja
+subtitle: Mój ulubiony kraj
+date: 04.11.2023
 theme: Warsaw
 output: beamer_presentation
 header-includes: 
