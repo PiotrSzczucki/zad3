@@ -48,20 +48,20 @@ Chaczapuri to popularne w całej europie gruzińskie wypieki. Najbardziej autent
 Wino z Gruzji znane jest na całym świecie. Ciepły klimat i górzysty teren tego kraju jest idealny do uprawy winogorom.
 
 
-## Slajd 4 - bloki z Latexa
+## Miasta Gruzji
 
-\begin{alertblock}{Uwaga:}
-Tu jakiś tekst
+\begin{alertblock}{Tbilisi}
+Tbilisi to stolica Gruzji. Jej kolorowe budynki z unikatową architekturą przyciagają turystów z całego świata.
 \end{alertblock}
 
 Tu jakiś tekst można teraz umieścić
 
-\begin{block}{Jakiś tytuł}
-Kolejny blok
+\begin{block}{Kutaisi}
+Kutaisi to miasto w zachodniej Gruzji. Możemy w nim odwiedzić piękne kościoły i jaskinie otwarte do zwiedzania.
 \end{block}
 
-\begin{exampleblock}{Przykładzik}
-Jakiś kawałek przykładu
+\begin{exampleblock}{Batumi}
+Batumi to miasto na wybrzeżu Morza Czarnego. Charakteryzuje się wieżowcami i nowoczesną architekturą.
 \end{exampleblock}
 
 ## Slajd 5 - umieszczanie kodu źródłowego
