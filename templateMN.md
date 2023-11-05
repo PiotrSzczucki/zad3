@@ -18,7 +18,7 @@ Gruzja jest moim ulubionym krajem. Ten mało znany kraj jest zaskakująco bogaty
 
 Gruzja jest świetnym miejscem dla miłośników zabytków. Możemy tam znaleźć mnóstwo pozostałości dawnego ZSRR, jak i prastare budowle z epoki bronzu. Miasta Gruzji mają swój własny, unikatowy styl, którego nie znajdziemy nigdzie indziej na świecie. Bardzo kolorowe ceglane budynki ze zdobionymi,  drewnianymi balkonami wyglądają jak połączenie architektury Kuby i Włoch. W całym kraju możemy też znaleźć bardzo charakerystyczne kamienne wieże, które były używane do obrony przed najeźdźcami.
 
-Atrakcje Gruzji
+## Atrakcje Gruzji
 
 Oto lista najciekwszych atrakcji Gruzji:
 
@@ -53,8 +53,6 @@ Wino z Gruzji znane jest na całym świecie. Ciepły klimat i górzysty teren te
 \begin{alertblock}{Tbilisi}
 Tbilisi to stolica Gruzji. Jej kolorowe budynki z unikatową architekturą przyciagają turystów z całego świata.
 \end{alertblock}
-
-Tu jakiś tekst można teraz umieścić
 
 \begin{block}{Kutaisi}
 Kutaisi to miasto w zachodniej Gruzji. Możemy w nim odwiedzić piękne kościoły i jaskinie otwarte do zwiedzania.
