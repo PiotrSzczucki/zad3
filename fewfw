@@ -1,0 +1,35 @@
+[33mcommit 2b0787b2f3ad60ff2e9996f72e34dc536888464e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: PiotrSzczucki <01179748@pw.edu.pl>
+Date:   Sat Nov 4 20:33:28 2023 +0100
+
+    Uzupełniono tytuł i zawartość Slajdu 2
+
+[33mcommit cec7d1a00fa6ab44643b99fb540903921ba252f6[m
+Author: PiotrSzczucki <01179748@pw.edu.pl>
+Date:   Sat Nov 4 20:20:10 2023 +0100
+
+    Uzupełniono tytuł i zawartość Slajdu 1
+
+[33mcommit 143e73f99887f61ba48a89b7aa7c994217b75a4d[m
+Author: PiotrSzczucki <01179748@pw.edu.pl>
+Date:   Sat Nov 4 20:05:52 2023 +0100
+
+    Uzupełniono podstawowe informacje o prezentacji
+
+[33mcommit f89f62a452ea4c53115ee76a0bb4a8d740e21db6[m
+Author: PiotrSzczucki <01179748@pw.edu.pl>
+Date:   Sat Nov 4 19:45:35 2023 +0100
+
+    Dodano obraz example.jpg
+
+[33mcommit 786a904d9869571b37c502b8abd48105fafcabc4[m
+Author: PiotrSzczucki <01179748@pw.edu.pl>
+Date:   Sat Nov 4 19:40:08 2023 +0100
+
+    Utworzono plik prezentacja.pdf używając Pandoc
+
+[33mcommit b32f2f25d7ef809af8f0f235db8fb7c9af6b426b[m
+Author: PiotrSzczucki <01179748@pw.edu.pl>
+Date:   Sat Nov 4 19:07:58 2023 +0100
+
+    Dodano plik templateMN.md do repozytorium

@@ -34,20 +34,19 @@ Oto lista najciekwszych atrakcji Gruzji:
 - ii
 - ii
 
-## Slajd 3 - bloki
+## Kuchnia Gruzji
 
-### blok z tytułem
-Przykładowa zawartość bloku z belką tytułową.
+Oto najciekawsze dania kuchni ormiańskiej:
 
-Druga linia bloku
+### Khinkhali
+Khinkhali to pierogi w formie torebek, których ciasto przypomina Polskie pierogi. Jednak nadziewa się je surową wołowiną i rosołem. Mięso gotuje się podczas gotowania pieroga.
 
-###
-Wyróżnienie - blok bez belki tytułowej
+### Chaczapuri
+Chaczapuri to popularne w całej europie gruzińskie wypieki. Najbardziej autentyczne jest z jajkiem sadzonym i białym kozim serem. Spotyka się też chaczapuri wypełnione szpinakiem, mięsem czy nawet na słodko.
 
-###
-Wyróżnienie - kolejny blok bez belki tytułowej
+### Wino
+Wino z Gruzji znane jest na całym świecie. Ciepły klimat i górzysty teren tego kraju jest idealny do uprawy winogorom.
 
-<!--- Niestety pomiędzy tak zdefiniowanymi  blokami nie można umieszczać innych elementów-->
 
 ## Slajd 4 - bloki z Latexa
 
