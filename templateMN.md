@@ -69,24 +69,3 @@ Batumi to miasto na wybrzeżu Morza Czarnego. Charakteryzuje się wieżowcami i 
 
 ![](krajobraz.jpg){ height=50% width=50%}
 
-## Slajg 7 - obrazek wycentrowany z podpisem
-
-![&nbsp; Example 1](example.jpg){ height=50% width=50%}
-
-## Slajd 8 - tabele
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-<!--- W kodzie można dowolnie używać Latexa -->
-
-## Slajd 9 - wzory
-
-<!--- wzory wstawiamy bezpośrednio jako jod Latex -->
-
-Tu jest tekst ze wzorem: $c=\sqrt{a^2+b^2}$
-
-A tu wzór pod tekstem: $$c=\sqrt{a^2+b^2}$$
