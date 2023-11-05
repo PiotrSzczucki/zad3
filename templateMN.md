@@ -64,28 +64,10 @@ Kutaisi to miasto w zachodniej Gruzji. Możemy w nim odwiedzić piękne kościo�
 Batumi to miasto na wybrzeżu Morza Czarnego. Charakteryzuje się wieżowcami i nowoczesną architekturą.
 \end{exampleblock}
 
-## Slajd 5 - umieszczanie kodu źródłowego
 
-Python code:
-```python
-s = 2
-print s
-```
-C code:
+## Krajobraz Gruzji
 
-```c
-#include<stdio.h>
-int main(void)
-{
-    printf("Hello\n");
-    return 0;
-}
-```
-
-
-## Slajd 6 - obrazek
-
-![](example.jpg){ height=50% width=50%}
+![](krajobraz.jpg){ height=50% width=50%}
 
 ## Slajg 7 - obrazek wycentrowany z podpisem
 
