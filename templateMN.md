@@ -31,8 +31,6 @@ Oto lista najciekwszych atrakcji Gruzji:
 * Cminda Sameba - piękny kościół na szczycie góry
 * Zamek Chertwisi - ponure ruiny twierdzy na skale
 
-- ii
-- ii
 
 ## Kuchnia Gruzji
 
@@ -65,5 +63,5 @@ Batumi to miasto na wybrzeżu Morza Czarnego. Charakteryzuje się wieżowcami i 
 
 ## Krajobraz Gruzji
 
-![](krajobraz.jpg){ height=50% width=50%}
+![&nbsp](krajobraz.jpg){ height=50% width=50%}
 
