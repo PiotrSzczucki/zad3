@@ -63,5 +63,5 @@ Batumi to miasto na wybrzeżu Morza Czarnego. Charakteryzuje się wieżowcami i 
 
 ## Krajobraz Gruzji
 
-![&nbsp](krajobraz.jpg){ height=50% width=50%}
+![&nbsp](krajobraz.jpg){ height=100% width=100%}
 
